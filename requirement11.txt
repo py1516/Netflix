@@ -1,0 +1,5 @@
+streamlit
+cryptography
+pandas
+python-dotenv
+bcrypt
